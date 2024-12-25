@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning technologies in java
 - 💞️ I’m looking to collaborate on MNC
 - 📫 How to reach me mobile number 9014345967 my linked profile: https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264/ 
-- 😄 Pronouns: ...
+- 😄 Pronouns: MR.BANDRE MAHIDHAR REDDY
 - ⚡ Fun fact: ...
 
 <!---
