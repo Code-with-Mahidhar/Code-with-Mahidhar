@@ -40,10 +40,6 @@
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahidharreddy07" target="blank">
@@ -59,10 +55,6 @@
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
 </p>
-
-</td>
-
-<td width="50%" valign="top">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -82,10 +74,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
 </p>
-
-</td>
-</tr>
-</table>
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-mahidhar&show_icons=true&locale=en&layout=compact" /></p>
