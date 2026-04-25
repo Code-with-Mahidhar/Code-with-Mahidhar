@@ -40,23 +40,29 @@
 
 ---
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mahidharreddy07" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
 </a>
 <a href="https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
 <a href="https://medium.com/@mahidharreddybandre" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
 </a>
 <a href="https://www.geeksforgeeks.org/profile/mahidharre9qhi" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
 </p>
 
----
+</td>
+
+<td width="50%" valign="top">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -77,6 +83,9 @@
 </a>
 </p>
 
+</td>
+</tr>
+</table>
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-mahidhar&show_icons=true&locale=en&layout=compact" /></p>
