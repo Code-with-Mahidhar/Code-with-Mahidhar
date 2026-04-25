@@ -40,40 +40,20 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mahidharreddy07" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-<a href="https://medium.com/@mahidharreddybandre" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>
-<a href="https://www.geeksforgeeks.org/profile/mahidharre9qhi" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
-</a>
-</p>
+### Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.arduino.cc/" target="_blank">
-<img align="center" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>
-<a href="https://www.cprogramming.com/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.w3schools.com/cpp/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.java.com" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-</a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-000?style=for-the-badge&logo=twitter)](https://twitter.com/mahidharreddy07)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264/)
+[![Medium](https://img.shields.io/badge/Medium-000?style=for-the-badge&logo=medium)](https://medium.com/@mahidharreddybandre)
+[![GFG](https://img.shields.io/badge/GFG-000?style=for-the-badge&logo=geeksforgeeks)](https://www.geeksforgeeks.org/profile/mahidharre9qhi)
+
+### Languages and Tools:
+
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 ---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-mahidhar&show_icons=true&locale=en&layout=compact" /></p>
