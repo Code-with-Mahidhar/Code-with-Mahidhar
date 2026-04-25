@@ -50,7 +50,7 @@
 </a>&nbsp;&nbsp;
 <a href="https://medium.com/@mahidharreddybandre" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>&nbsp;&nbsp;
+</a>&nbsp;
 <a href="https://www.geeksforgeeks.org/profile/mahidharre9qhi" target="blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
