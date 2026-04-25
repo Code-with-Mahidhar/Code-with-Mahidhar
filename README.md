@@ -42,16 +42,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahidharreddy07" target="blank">
+<a href="https://twitter.com/mahidharreddy07" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264/" target="blank">
+</a>
+<a href="https://www.linkedin.com/in/mahidhar-reddy-bandre-009894264/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>&nbsp;&nbsp;
-<a href="https://medium.com/@mahidharreddybandre" target="blank">
+</a>
+<a href="https://medium.com/@mahidharreddybandre" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40" />
-</a>&nbsp;
-<a href="https://www.geeksforgeeks.org/profile/mahidharre9qhi" target="blank">
+</a>
+<a href="https://www.geeksforgeeks.org/profile/mahidharre9qhi" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="30" width="40" />
 </a>
 </p>
@@ -60,16 +60,16 @@
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank">
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.cprogramming.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.w3schools.com/cpp/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.java.com" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>&nbsp;&nbsp;
+</a>
 <a href="https://www.linux.org/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
 </a>
