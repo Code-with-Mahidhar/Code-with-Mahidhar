@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mahidhar Reddy</h1>
-<h3 align="center">Embedded Systems Developer | C Programmer | Microcontroller Enthusiast from India</h3>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Developer;C+Programmer;IoT+Enthusiast&center=true&width=500&height=50">
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-mahidhar&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-mahidhar" /> </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=code-with-mahidhar&show_icons=true" />
 
 <p align="left"> <a href="https://twitter.com/mahidharreddy07" target="blank"><img src="https://img.shields.io/twitter/follow/mahidharreddy07?logo=twitter&style=for-the-badge" alt="mahidharreddy07" /></a> </p>
 
@@ -50,10 +51,17 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Arduino](https://img.shields.io/badge/Arduino-000?style=for-the-badge&logo=arduino)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=code-with-mahidhar&show_icons=true&locale=en&layout=compact" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=code-with-mahidhar&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=code-with-mahidhar&show_icons=true&locale=en" /></p>
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mahidhar&theme=tokyonight&hide_border=true" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=code-with-mahidhar" /></p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-mahidhar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
