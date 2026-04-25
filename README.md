@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mahidhar Reddy</h1>
 <h3 align="center">Embedded Systems Developer | C Programmer | Microcontroller Enthusiast from India</h3>
 
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=code-with-mahidhar&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-mahidhar" /> 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-mahidhar&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-mahidhar" /> </p>
 
-<p align="left"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=code-with-mahidhar" alt="code-with-mahidhar" />
-</a> 
-</p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-mahidhar" alt="code-with-mahidhar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/mahidharreddy07" target="blank"><img src="https://img.shields.io/twitter/follow/mahidharreddy07?logo=twitter&style=for-the-badge" alt="mahidharreddy07" /></a> </p>
 
 - 🔭 I’m currently working on **real-world embedded systems projects**
 
