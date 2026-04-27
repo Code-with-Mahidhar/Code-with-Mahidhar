@@ -3,7 +3,11 @@
 <img src="https://readme-typing-svg.herokuapp.com?lines=Embedded+Systems+Developer;C+Programmer;IoT+Enthusiast&center=true&width=500&height=50">
 </p>
 
-<p align="left"> <a href="https://twitter.com/mahidharreddy07" target="blank"><img src="https://img.shields.io/twitter/follow/mahidharreddy07?logo=twitter&style=for-the-badge" alt="mahidharreddy07" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/mahidharreddy07" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/mahidharreddy07?logo=twitter&style=for-the-badge" alt="mahidharreddy07" />
+  </a>
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-with-mahidhar&label=Profile%20views&color=0e75b6&style=flat" alt="code-with-mahidhar" /> </p>
 
